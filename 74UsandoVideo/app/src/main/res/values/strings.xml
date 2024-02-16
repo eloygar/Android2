@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">74UsandoVideo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="thumbnailButton">Hacer video thumbnail</string>
+    <string name="thumbnailText">Video thumbnail</string>
+    <string name="guardarFoto">Guardar video tamaño real</string>
+    <string name="guardarFotoText">Video tamaño real</string>
+</resources>
