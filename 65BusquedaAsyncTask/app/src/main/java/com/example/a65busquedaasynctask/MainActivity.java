@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity {
         conexion.disconnect();
         return devuelve;
     }
-
+/*
     class BuscarGoogle extends AsyncTask<String, Void, String> {
         private ProgressDialog progreso;
 
@@ -130,5 +130,5 @@ public class MainActivity extends AppCompatActivity {
             salida.append("Error al conectarlo.\n");
         }
     }
-
+*/
 }

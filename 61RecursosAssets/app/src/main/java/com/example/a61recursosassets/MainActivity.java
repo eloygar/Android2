@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     private void openAsset(View v) {
         editText = findViewById(R.id.editText);
         try {
-            editText.setText(getText(this.getAssets().open("mitexto.txt")));
+                editText.setText(getText(this.getAssets().open("mitexto.txt")));
         } catch (Exception e) {
             e.printStackTrace();
         }

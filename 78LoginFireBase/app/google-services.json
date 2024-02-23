@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92285005877",
+    "project_id": "prueba-e335c",
+    "storage_bucket": "prueba-e335c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92285005877:android:6a430099075423e3fcc17c",
+        "android_client_info": {
+          "package_name": "com.example.a78loginfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD10YVJdlhwXBV7iiFSKul8pXW8A3U2Szg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
